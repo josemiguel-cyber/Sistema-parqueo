@@ -25,7 +25,7 @@
         "jquery.nicescroll": "^3.7.6",
         "jsrender": "^1.0.5",
         "popper.js": "^1.12",
-        "sass": "^1.15.2",
+        "sass": "^1.72.0",
         "sass-loader": "^7.1.0",
         "select2": "^4.0.13",
         "sweetalert": "^1.1.3",
